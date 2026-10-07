@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭Pursuing BE at Bapuji Institute of Engineering and Technology<br>🤝 Seeking guidance on Machine Learning & Generative AI<br>🌱 Learning DSA, Python, HTML/CSS, Bootstrap, Git & MongoDB<br>🎓 3rd Year CSE @ BIET, Davangere<br>⚡ Fun fact: Music keeps me alive 
+🔭Pursuing BE at Bapuji Institute of Engineering and Technology<br>🤝 Seeking guidance on Machine Learning & Generative AI<br>🌱 Learning DSA, Python, HTML/CSS, Bootstrap, Git & MongoDB<br>🎓 4th Year CSE @ BIET, Davangere<br>⚡ Fun fact: Music keeps me alive 
 
 
 ## 🌐 Socials:
